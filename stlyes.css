@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=rSigmar&display=swap');
+
+:root {
+    --cor-principal: #0DE7EC;
+    --cor1:#324b4c;
+    --cor2:#95b0b1;
+    --cor3:#b5c1ff;
+    --cor4:#7d8bdc;
+    --preto:#000000;
+    --branco:#FFFFFF;
+}
+body{
+    font-size:1rem;
+    font-family:'sigmar'; /*o nome da sua fonte*/
+}
