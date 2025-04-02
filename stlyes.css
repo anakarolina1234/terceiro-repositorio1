@@ -35,8 +35,8 @@ text-shadow:  -5px 5px var(--cor-principal);
     align-items: center;
     justify-content: center;
     position:relative;
-    z-index: 1 ;/*Garante que o conteudo fica acima do backgroud se houverem
-    
+    z-index: 1 ;/*Garante que o conteudo fica acima do backgroud se houverem*/
+
 }
 
 
