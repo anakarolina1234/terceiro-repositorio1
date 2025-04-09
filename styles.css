@@ -9,6 +9,7 @@
     --preto:#000000;
     --branco:#FFFFFF;
 }
+
 body {
     font-size: 1rem;
     font-family: 'Montserrat'; /*o nome da sua fonte*/
@@ -38,20 +39,6 @@ text-shadow:  -5px 5px var(--cor-principal);
     z-index: 1 ;/*Garante que o conteudo fica acima do backgroud se houverem*/
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 #contato {
