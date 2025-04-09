@@ -55,7 +55,7 @@ text-shadow:  -5px 5px var(--cor-principal);
 
 
 #contato {
-    background: var(--cor-principal);
+    background: var(--cor1);
     background-size: cover;
     padding: 4rem 0;
 }
