@@ -90,3 +90,31 @@ text-shadow:  -5px 5px var(--cor-principal);
 .apresenta-lista{
     display: none;
 }
+
+.alto-contraste{
+    background-color: var(--cor2);
+    color: var(--branco);
+}
+
+.alto-contraste header,
+.alto-contraste footer,
+.alto-contraste .formulario{
+    background-color: var(--cor-principal);
+    color: var(--cor3);
+}
+
+.alto-contraste .nav-link{
+    color: var(--cor4);
+}
+
+.alto-contraste #auladecantoprofissional {
+    background: none;
+}
+
+.alto-contraste #galeria {
+    background-color: var(--cor1);
+}
+
+.alto-contraste .fundo-galeria {
+    background: none;
+}
